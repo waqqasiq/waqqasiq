@@ -1,6 +1,6 @@
-### Hey there, I'm Waqqas 👋
-
 ![counter](https://enjt0ljskv4f2tu.m.pipedream.net)
+
+### Hey there, I'm Waqqas 👋
 
 - I'm a full-stack developer at MGH Group, Bangladesh.
 - I’m currently working on React.js, Node.js, Android Dev and a few other stuff.
